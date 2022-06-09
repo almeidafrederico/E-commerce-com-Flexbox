@@ -116,6 +116,7 @@ border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 8px;
     margin-right: 10%;
     margin-left: 10%;
     width: 80%;
